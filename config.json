@@ -17,7 +17,7 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100090405019929"],
+    "61553585482906"],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
@@ -26,9 +26,9 @@
   "OWNER": "ʬʆʬ Sønïč Shïsûį ʬɸʬ",
   "AGE": "16",
   "GENDER": "MALE",
-  "nickNameBot": "ミ★𝐒𝐎𝐍𝐈𝐂✄𝐄𝐗𝐄★彡",
+  "nickNameBot": "༒𝐑𝐀𝐘𝐃 𝐁𝐎𝐓༒",
   "FACEBOOK": "https://www.facebook.com/profile.php?id=100090405019929",
-  "prefix": "!",
+  "prefix": "¥",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
